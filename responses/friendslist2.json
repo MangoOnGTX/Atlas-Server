@@ -1,0 +1,79 @@
+{
+  "friends": [
+    {
+      "accountId": "Atlas",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2000-04-08T12:32:42.069Z"
+    },
+    {
+      "accountId": "Atlas1",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2000-04-08T12:32:42.069Z"
+    },
+    {
+      "accountId": "Atlas2",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2000-04-08T12:32:42.069Z"
+    },
+    {
+      "accountId": "Atlas3",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2000-04-08T12:32:42.069Z"
+    },
+    {
+      "accountId": "Atlas4",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2000-04-08T12:32:42.069Z"
+    },
+    {
+      "accountId": "Atlas5",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2000-04-08T12:32:42.069Z"
+    },
+    {
+      "accountId": "Atlas6",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2000-04-08T12:32:42.069Z"
+    }
+  ],
+  "incoming": [],
+  "outgoing": [
+    {
+      "accountId": "Atlas7",
+      "favorite": false
+    }
+  ],
+  "suggested": [],
+  "blocklist" : [],
+  "settings": {
+    "acceptInvites": "public"
+  }
+}
